@@ -47,9 +47,13 @@ Homepage van de Bungie website
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Season of the lost informatie pagina
+<img src="images/test.png" width="375px" alt="season of the lost info pagina">
 <img src="images/info-1.jpg" width="375px" alt="season of the lost info pagina">
 <img src="images/info-2.jpg" width="375px" alt="season of the lost info pagina">
-<img src="images/info-3.jpg" width="375px" alt="home page van bungie op mobile formaat">
+<img src="images/info-3.jpg" width="375px" alt="season of the lost info pagina">
+<img src="images/info-4.jpg" width="375px" alt="season of the lost info pagina">
+<img src="images/info-5.jpg" width="375px" alt="season of the lost info pagina">
+<img src="images/info-6.jpg" width="375px" alt="season of the lost info pagina">
  
 </details>
 

@@ -47,7 +47,12 @@ hier de naam van de pagina
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/lost-1.jpg" width="375px" alt="season of the lost informatie pagina">
+<img src="images/lost-2.jpg" width="375px" alt="season of the lost informatie pagina">
+<img src="images/lost-3.jpg" width="375px" alt="season of the lost informatie pagina">
+<img src="images/lost-4.jpg" width="375px" alt="season of the lost informatie pagina">
+<img src="images/lost-5.jpg" width="375px" alt="season of the lost informatie pagina">
+<img src="images/lost-6.jpg" width="375px" alt="season of the lost informatie pagina">
  
 </details>
 

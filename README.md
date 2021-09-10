@@ -40,7 +40,10 @@ https://www.bungie.net/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/home-1.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/home-1.jpg" width="375px" alt="home page van bungie op mobile formaat">
+<img src="images/home-2.jpg" width="375px" alt="home page van bungie op mobile formaat">
+<img src="images/home-3.jpg" width="375px" alt="home page van bungie op mobile formaat">
+<img src="images/home-4.jpg" width="375px" alt="home page van bungie op mobile formaat">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  

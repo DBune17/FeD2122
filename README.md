@@ -52,7 +52,6 @@ Season of the lost informatie pagina
 <img src="images/info-3.jpg" width="375px" alt="season of the lost info pagina">
 <img src="images/info-4.jpg" width="375px" alt="season of the lost info pagina">
 <img src="images/info-5.jpg" width="375px" alt="season of the lost info pagina">
-<img src="images/info-6.jpg" width="375px" alt="season of the lost info pagina">
  
 </details>
 

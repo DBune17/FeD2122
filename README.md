@@ -39,14 +39,14 @@ Voor nu denk ik aan responsive
 https://www.bungie.net/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+Homepage van de Bungie website  
 <img src="images/home-1.jpg" width="375px" alt="home page van bungie op mobile formaat">
 <img src="images/home-2.jpg" width="375px" alt="home page van bungie op mobile formaat">
 <img src="images/home-3.jpg" width="375px" alt="home page van bungie op mobile formaat">
 <img src="images/home-4.jpg" width="375px" alt="home page van bungie op mobile formaat">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+Season of the lost informatie pagina 
 <img src="images/lost-1.jpg" width="375px" alt="season of the lost informatie pagina">
 <img src="images/lost-2.jpg" width="375px" alt="season of the lost informatie pagina">
 <img src="images/lost-3.jpg" width="375px" alt="season of the lost informatie pagina">

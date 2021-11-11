@@ -68,13 +68,10 @@ Season of the lost informatie pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### Homepage breakdowbn: 
-<img src="images/breakdown1" width="375px" alt="breakdown van de hele pagina">
+<img src="images/breakdown1.jpg" width="375px" alt="breakdown van de hele pagina">
 
 ### Seasonpage breakdown: 
-<img src="images/breakdown2" width="375px" alt="breakdown van een dynamisch deel">
-
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+<img src="images/breakdown2.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 </details>
 
@@ -88,26 +85,20 @@ Season of the lost informatie pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+De week van dit voortganggesprek lag ik ziek op bed met voedselvergiftiging, hier ben ik twee weken goed ziek van geweest en hier begon eigenlijk meteen al mijn achterstand voor dit vak
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Niet aanwezig
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+Geen feedback
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- x
+- x
+- x
+- x
 
 </details>
 
@@ -121,26 +112,20 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Tweede week dat ik ziek was
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Niet aanwezig
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+Geen feedback
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- x
+- x
+- x
+- x
 
 </details>
 
@@ -191,26 +176,20 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had hier op dat moment de hoop voor FeD opgegeven, mijn focus heb ik toen op mijn andere vakken gelegd en heb dit compleet laten schieten
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Niet aanwezig
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+Geen feedback
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- x
+- x
+- x
+- x
 
 </details>
 
@@ -224,11 +203,35 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Eerste beoordeling had ik nog niks gemaakt dus ik was hier niet aanwezig
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+X
+
+</details>
+
+
+
+## Herkansing
+
+<details>
+<summary>uitwerken voor eindgesprek</summary>
+
+### Stand van zaken
+Laatste week van het blok en al mijn andere vakken had ik al ingeleverd en ik heb toen besloten om gewoon te gaan proberen een website te maken voor FeD. Het hele idee was een longshot aangezien ik maar twee dagen ervoor zou hebben maar ik ging het gewoon proberen, maakt me niet uit of ik zou halen of niet.
+
+### Screenshot(s)
+
+Screenshots woensdag einde ochtend (10/11/2021)
+
+
+Screenshots woensdag avond (10/11/2021)
+
+
+Screenshots donderdag middag (11/11/2021)
+
+
 
 </details>
 
@@ -243,8 +246,23 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2. https://stackoverflow.com/questions/2751127/how-to-select-the-first-second-or-third-element-with-a-given-class-name
+3. https://stackoverflow.com/questions/36350948/removing-black-dots-from-li-and-ul
+4. https://www.w3schools.com/css/css_positioning.asp
+5. https://stackoverflow.com/questions/29973357/how-do-you-format-code-in-visual-studio-code-vscode
+6. https://developer.mozilla.org/en-US/docs/Web/CSS/border
+7. https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+8. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time
+9. https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
+10. https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content
+11. https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis?retiredLocale=nl
+12. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong
+13. https://www.freecodecamp.org/news/how-to-center-an-image-in-css/
+14. https://developer.mozilla.org/en-US/docs/Web/API/Element/closest
+15. https://careerkarma.com/blog/css-bold/
+16. https://stackoverflow.com/questions/26032089/in-html-how-can-i-have-text-that-is-only-accessible-for-screen-readers-i-e-fo
+
+
 
 </details>

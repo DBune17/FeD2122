@@ -223,30 +223,30 @@ Laatste week van het blok en al mijn andere vakken had ik al ingeleverd en ik he
 
 ### Screenshot(s)
 
-Screenshots woensdag einde ochtend (10/11/2021)
+Screenshots woensdag einde ochtend (10/11/2021)    
 <img src="images/begin-code.png" width="375px" alt="code begin">
 
-Screenshots woensdag avond (10/11/2021)
-Homepage:
+Screenshots woensdag avond (10/11/2021)    
+Homepage:    
 <img src="images/Homepage-deel-1.png" width="375px" alt="code begin">
 <img src="images/Homepage-deel-2.png" width="375px" alt="code begin">
 <img src="images/Homepage-deel-3.png" width="375px" alt="code begin">
 
 
-Screenshots donderdag ochtend (11/11/2021)
-Seasonpage
+Screenshots donderdag ochtend (11/11/2021)    
+Seasonpage    
 <img src="images/Seasonpage-begin-1.png" width="375px" alt="code begin">
 <img src="images/Seasonpage-begin-2.png" width="375px" alt="code begin">
 <img src="images/Seasonpage-begin-3.png" width="375px" alt="code begin">
 <img src="images/Seasonpage-begin-4.png" width="375px" alt="code begin">
 
-Screenshots donderdag middag (11/11/2021)
-Homepage
+Screenshots donderdag middag (11/11/2021)    
+Homepage    
 <img src="images/Homepage-af-1.png" width="375px" alt="code begin">
 <img src="images/Homepage-af-2.png" width="375px" alt="code begin">
 <img src="images/Homepage-af-3.png" width="375px" alt="code begin">
 
-Seasonpage
+Seasonpage    
 <img src="images/Seasonpage-eind-1.png" width="375px" alt="code begin">
 <img src="images/Seasonspage-eind-2.png" width="375px" alt="code begin">
 <img src="images/Seasonpage-eind-3.png" width="375px" alt="code begin">

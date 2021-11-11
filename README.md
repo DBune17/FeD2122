@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Dani Buné
 
 #### Je startniveau:
-Groene piste, maar aangezien dat geen optie is dan is het blauwe piste
+Blauwe piste
 
 #### Je focus:
-Voor nu denk ik aan responsive
+Service
  
 </details>
 

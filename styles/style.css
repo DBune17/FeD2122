@@ -1,5 +1,360 @@
-/* CSS Document */
+:root {
+  --text-color-primary: #f5f5f5;
+  --text-color-secondary: rgba(245,245,245,0.8);
+  --border-primary: 1px solid rgba(245,245,245,0.1);
+  --border-secondary: 1px solid #715cd7;
+  --bg-color: #12171c;
+  --border-radius: 5px;
+}
+
 *, *::after, *::before {
   box-sizing:border-box;  
 }
 
+html {
+  background-color: var(--bg-color);
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  color: white;
+}
+
+a { 
+  text-decoration: none;
+  color: var(--text-color-primary);
+}
+
+/* CSS HOME PAGE*/
+
+/* HEADER */
+
+header nav {
+  background-color: var(--bg-color);
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+}
+
+header nav h1 {
+  visibility: hidden;
+}
+
+header img {
+  width: 100px;
+  padding: 10px 0px;
+  margin-left: 10px;
+}
+
+header section a {
+  display: block;
+  background-color: rgba(183,140,37,0.8);
+  padding: 12px 60px;
+  text-transform: uppercase;
+  font-size: 12px;
+  border: solid 1px #ffce1f;
+}
+
+header section h2 {
+  text-transform: uppercase;
+}
+
+header section {
+  background-image: url("/images/website-images/homepage-banner.jpeg");
+  background-repeat: no-repeat;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
+  background-size: cover;
+  background-position: center top;
+  height: 450px;
+  /* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 40px;
+}
+
+header section img {
+  width: 80%;
+}
+
+/* MAIN FEATURED SECTION */
+
+main section {
+  border-top: var(--border-primary);
+  margin: 10px;
+}
+
+main section > p{
+  display: block;
+  background-color: white;
+  color: black;
+  /* bron: https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content */
+  width: fit-content;
+  padding: 2px 5px;
+  margin-top: 0;
+  text-transform: uppercase;
+  font-size: 0.6rem;
+}
+
+main section:nth-of-type(1) ul{
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: space-between;
+  gap: 5px;
+  padding: 0;
+}
+
+main section:nth-of-type(1) ul img{
+  width: 100%;
+  height: 200px;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit */
+  object-fit: cover;
+  border-radius: var(--border-radius);
+
+}
+
+main section:nth-of-type(1) ul li{
+  display: flex;
+  flex-direction: column;
+  width: 48%;
+  max-width: 250px;
+  margin-bottom: 10px;
+  text-transform: uppercase;  
+}
+
+main section ul a{
+  margin-top: 15px;
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+}
+
+main section:nth-of-type(1) ul p{
+  margin: 15px 0 0 0;
+  font-size: 0.6rem;
+}
+
+/* MAIN LATEST SECTION */
+
+main section:nth-of-type(2) ul {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0;
+}
+
+main section:nth-of-type(2) ul li{
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+main section:nth-of-type(2) ul img {
+  width: 125px;
+  height: 75px;
+  object-fit: cover;
+}
+
+main section:nth-of-type(2) > a {
+  display: block;
+  background-color: var(--bg-color);
+  padding: 12px 20px;
+  margin: 30px 120px 60px 120px;
+  font-size: 12px;
+  border: solid 1px white;
+  text-align: center;
+}
+
+main section ul p {
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  color: var(--text-color-secondary);
+}
+
+/* BRON: https://css-tricks.com/block-links-the-search-for-a-perfect-solution/ tip van bas */
+
+
+main section li {
+  position: relative;
+}
+
+main section li a:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+/* FOOTER */
+
+footer img {
+margin: auto;
+display: block;
+}
+
+footer nav {
+  border-top: var(--border-primary);
+  margin-top:30px;
+}
+
+footer nav ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+}
+
+footer nav em {
+  font-size: 1em;
+  font-style: inherit;
+  font-weight: bold;
+}
+
+footer nav li {
+  list-style-type: none;
+  font-size: 0.8em;
+}
+
+footer p {
+  text-align: center;
+  font-size: 0.8em;
+}
+
+footer ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+  gap: 10px;
+  padding: 0;
+}
+
+
+/* CSS SEASON PAGE */
+
+/* HEADER */
+
+header.detail-page section {
+  background-image: url(/images/website-images/lost-banner.jpeg);
+  height: 1000px;
+}
+
+header.detail-page section h2 {
+  font-size: 1rem;
+  margin: 0px 0px 25px 0px;
+  font-weight: lighter;
+}
+
+header.detail-page section img:first-of-type {
+  width: 80%;
+  object-fit: contain;
+  border: none;
+}
+
+
+header.detail-page section img {
+  padding: 0px;
+  height: 150px;
+  width: 300px;
+  object-fit: cover;
+  border: var(--border-secondary);
+  border-radius: var(--border-radius); 
+  margin: 10px;
+}
+
+/* MAIN */
+
+main article:nth-of-type(1) {
+  background-image: url(/images/website-images/story-banner.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  height: 600px;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  padding-bottom: 10px;
+  margin: 0;
+}
+
+main article:nth-of-type(1) h3 {
+  font-size: 0.8rem;
+  font-weight: lighter;
+}
+
+main article:nth-of-type(1) h2 {
+  font-size: 2.4rem;
+  font-weight: lighter;
+}
+
+main article:nth-of-type(1) h2 em {
+  font-style: normal;
+  font-weight: bolder;
+  
+}
+
+main article:nth-of-type(1) p {
+  font-weight: lighter;
+}
+
+main article:nth-of-type(1) p em {
+  font-style: normal;
+  font-weight: bolder;
+}
+
+main article:nth-of-type(2) {
+  background-image: url(/images/website-images/helm-banner.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  height: 800px;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  padding-bottom: 120px;
+  border-radius: 50px;
+  margin: 20px;
+}
+
+main article:nth-of-type(3) {
+  background-image: url(/images/website-images/activity-banner.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  height: 700px;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  padding-bottom: 10px;
+}
+
+main article:nth-of-type(3) img {
+  border-radius: var(--border-radius);
+  margin-bottom: 20px;
+}
+
+
+
+main article:nth-of-type(4) {
+  background-color: white;
+  color: black;
+}
+
+main article {
+  padding: 1rem;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (min-width: 800px) {
+  header section {
+    background: red;
+  }
+}
+
+/* BRON VOOR GRADIENT MAKEN: https://cssgradient.io/ */
